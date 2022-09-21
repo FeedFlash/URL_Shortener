@@ -10,6 +10,6 @@ URL Shortener using Bootstrap.
 
 # Images
 <div style="display:flex;">
-    <img src="images/index_html.png" alt="index_html" style="width:50%;"/>
-    <img src="images/result_html.png" alt="result_html" style="width:50%;"/>
+    <img src="images/index_html.png" alt="index_html" style="width:49%;"/>
+    <img src="images/result_html.png" alt="result_html" style="width:49%;"/>
 </div>
